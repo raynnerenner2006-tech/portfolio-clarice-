@@ -107,6 +107,16 @@ footer{
     font-weight: 400;
 }
 
+.logo{
+    height: 50px;
+    width: auto;
+    display: flex;
+    margin-left: 400px;
+}
+.projeto{
+    margin-left: 70px;
+    padding: 42px 102px;
+}
 @media (max-width:1100){
     main{
         display: flex;
